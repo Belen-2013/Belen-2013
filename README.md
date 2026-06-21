@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy María Belén Beltrán
 
-<!--
-**Belen-2013/Belen-2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🤖 Estudiante de Inteligencia Artificial | 💻 Explorando el mundo del código y la innovación
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy estudiante de **Inteligencia Artificial** de **primer semestre**, apasionada por aprender cómo la tecnología puede transformar ideas en soluciones inteligentes.
+
+## 🎯 Mi objetivo
+
+Crear soluciones innovadoras combinando **programación, creatividad e inteligencia artificial** para resolver problemas del mundo real.
+
+---
+
+✨ *"Cada línea de código es un paso hacia la creación del futuro."* 🚀
